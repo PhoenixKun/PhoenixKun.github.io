@@ -25,7 +25,10 @@ body {
     175%  {background-color:cyan; left:500px; top:500px;}
     200%  {background-color:seagreen; left:0px; top:500px;}
     225%  {background-color:black; left:0px; top:0px;}
+
 }
 p{ color: red; font-family: arial; font-size: 50px; font-weight: bold;}
+p2{ color: black; font-family: lobster; font-size: 50px; font-weight: bold;}
+
 }
-p{ color: red; font-family: arial; font-size: 50px; font-weight: bold;}
+p2{ color: black; font-family: monospace; font-size: 50px; font-weight: bold;}
